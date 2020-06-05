@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text_Editor.iml" filepath="$PROJECT_DIR$/.idea/modules/Text_Editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Text_Editor.Problems-Fixing_the_main_method.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Text_Editor.Problems-Fixing_the_main_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Text_Editor.Problems-Fixing_the_main_method.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Text_Editor.Problems-Fixing_the_main_method.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Text_Editor.Problems-Fixing_the_main_method.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Text_Editor.Problems-Fixing_the_main_method.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Text_Editor.Problems-Initializing_an_array_of_longs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Text_Editor.Problems-Initializing_an_array_of_longs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Text_Editor.Problems-Initializing_an_array_of_longs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Text_Editor.Problems-Initializing_an_array_of_longs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Text_Editor.Problems-Initializing_an_array_of_longs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Text_Editor.Problems-Initializing_an_array_of_longs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Text_Editor.Problems-Print__Hello,_Java!.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Text_Editor.Problems-Print__Hello,_Java!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Text_Editor.Problems-Print__Hello,_Java!.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Text_Editor.Problems-Print__Hello,_Java!.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Text_Editor.Problems-Print__Hello,_Java!.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Text_Editor.Problems-Print__Hello,_Java!.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Text_Editor.Problems-Print__We_are_robots!.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Text_Editor.Problems-Print__We_are_robots!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Text_Editor.Problems-Print__We_are_robots!.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Text_Editor.Problems-Print__We_are_robots!.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Text_Editor.Problems-Print__We_are_robots!.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Text_Editor.Problems-Print__We_are_robots!.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Text_Editor.util.test.iml" />
+    </modules>
+  </component>
+</project>
