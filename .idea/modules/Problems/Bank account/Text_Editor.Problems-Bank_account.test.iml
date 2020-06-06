@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems-Bank_account:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Bank account" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Text_Editor" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../Problems/Bank account/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Bank account/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Bank account/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Text_Editor.Problems-Bank_account.main" />
+    <orderEntry type="module" module-name="Text_Editor.util.main" />
+    <orderEntry type="module" module-name="Text_Editor.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Text_Editor.Problems-Bank_account.main" />
+</module>

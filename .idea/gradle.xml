@@ -12,27 +12,43 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Account (1)" />
             <option value="$PROJECT_DIR$/Problems/Account and its owner" />
             <option value="$PROJECT_DIR$/Problems/Army" />
+            <option value="$PROJECT_DIR$/Problems/Bank account" />
             <option value="$PROJECT_DIR$/Problems/Binary search" />
             <option value="$PROJECT_DIR$/Problems/Book" />
+            <option value="$PROJECT_DIR$/Problems/Book (1)" />
             <option value="$PROJECT_DIR$/Problems/Books" />
             <option value="$PROJECT_DIR$/Problems/Car" />
             <option value="$PROJECT_DIR$/Problems/Circle" />
+            <option value="$PROJECT_DIR$/Problems/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Problems/Complex" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Counter" />
+            <option value="$PROJECT_DIR$/Problems/Employee" />
+            <option value="$PROJECT_DIR$/Problems/Employees" />
+            <option value="$PROJECT_DIR$/Problems/Fix the non-compiled hierarchy" />
             <option value="$PROJECT_DIR$/Problems/Fix the program" />
             <option value="$PROJECT_DIR$/Problems/Fix the program (1)" />
             <option value="$PROJECT_DIR$/Problems/Fix the program (2)" />
             <option value="$PROJECT_DIR$/Problems/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems/Getting the fullname" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of longs" />
             <option value="$PROJECT_DIR$/Problems/Inner boxes" />
+            <option value="$PROJECT_DIR$/Problems/Movie" />
+            <option value="$PROJECT_DIR$/Problems/Phone" />
             <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
             <option value="$PROJECT_DIR$/Problems/Preparing full name" />
             <option value="$PROJECT_DIR$/Problems/Print" />
             <option value="$PROJECT_DIR$/Problems/Print  Hello, Java!" />
             <option value="$PROJECT_DIR$/Problems/Print  We are robots!" />
+            <option value="$PROJECT_DIR$/Problems/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Problems/Publications" />
+            <option value="$PROJECT_DIR$/Problems/Saying animals" />
+            <option value="$PROJECT_DIR$/Problems/Shapes area" />
             <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Problems/Too many cats" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
