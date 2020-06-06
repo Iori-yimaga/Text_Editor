@@ -1,3 +1,5 @@
+import java.io.IOException;
+
 class Counter {
 
     int current;

@@ -18,6 +18,8 @@
             <option value="$PROJECT_DIR$/Problems/Book" />
             <option value="$PROJECT_DIR$/Problems/Books" />
             <option value="$PROJECT_DIR$/Problems/Car" />
+            <option value="$PROJECT_DIR$/Problems/Circle" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Counter" />
             <option value="$PROJECT_DIR$/Problems/Fix the program" />
             <option value="$PROJECT_DIR$/Problems/Fix the program (1)" />
@@ -30,6 +32,7 @@
             <option value="$PROJECT_DIR$/Problems/Print" />
             <option value="$PROJECT_DIR$/Problems/Print  Hello, Java!" />
             <option value="$PROJECT_DIR$/Problems/Print  We are robots!" />
+            <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
